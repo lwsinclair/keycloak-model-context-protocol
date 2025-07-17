@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/christophenglisch-keycloak-model-context-protocol-badge.png)](https://mseep.ai/app/christophenglisch-keycloak-model-context-protocol)
+
 # Keycloak MCP Server
 
 [![smithery badge](https://smithery.ai/badge/keycloak-model-context-protocol)](https://smithery.ai/server/keycloak-model-context-protocol)
